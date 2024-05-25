@@ -1,0 +1,3 @@
+This is some random text
+Using it to test the word count program
+This program is making use of maps and slices
