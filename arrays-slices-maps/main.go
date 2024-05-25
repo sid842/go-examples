@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("in main")
 
-	top3Words()
+	// top3Words()
 	// mapsExample()
+	slicesExample()
 }
