@@ -3,5 +3,6 @@ package main
 func main() {
 	// closureExample()
 	// recursionExample()
-	variadicFunctionExample()
+	// variadicFunctionExample()
+	parameterPassingSemanticsExample()
 }
